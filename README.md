@@ -1,95 +1,91 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Ved Prathap Chawhan</h1>
 
-# Hi 👋 I'm Ved Prathap Chawhan
+<p align="center">
+Software Engineer • Backend • Full Stack • AI Systems
+</p>
 
-### Software Engineer • Backend • Full Stack • AI Systems
-
-Building scalable backend systems, intelligent applications, and production-ready software.
-
-[Portfolio](https://vedprathap28.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/vedprathap28)
-
-</div>
+<p align="center">
+Building scalable backend systems, intelligent applications, and production-ready products with a focus on performance, automation, and real-world impact.
+</p>
 
 ---
 
 ## About Me
 
 * Computer Science graduate specializing in Artificial Intelligence
-* Interested in Backend Engineering, AI systems, Full Stack Development, and scalable architectures
-* Enjoy building products from design → implementation → deployment
-* Strong focus on performance, developer experience, and practical engineering
+* Interested in Backend Engineering, Full Stack Development, AI/ML, and System Design
+* Enjoy building products end-to-end — from architecture to deployment
+* Strong focus on APIs, performance, developer experience, and scalable systems
+* Continuously exploring intelligent workflows, automation, and modern engineering practices
 
 ---
 
 ## Tech Stack
 
-### Languages
+**Languages**
+Python • JavaScript • TypeScript • C++
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+**Frontend**
+React.js • HTML5 • CSS3 • Tailwind CSS • Redux • Context API
 
-### Backend & APIs
+**Backend & APIs**
+Node.js • Express.js • FastAPI • Flask • REST APIs • JWT • WebSockets • Async Processing
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+**Databases**
+MongoDB • PostgreSQL • MySQL • SQLite • ChromaDB
 
-### Frontend
+**DevOps & Infrastructure**
+Docker • Kubernetes • CI/CD • GitHub Actions
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss\&logoColor=white)
+**AI & Automation**
+LLM APIs • RAG • Prompt Engineering • Agentic Workflows
 
-### Databases & Infra
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+**Tools**
+Git • GitHub • Streamlit • Linux • System Design
 
 ---
 
 ## Featured Projects
 
-### 🚀 SIA — Smart Intelligent Assistant
+### SIA — Smart Intelligent Assistant
 
-AI agentic platform with RAG, real-time interactions, long-term memory, and modular architecture.
+AI agentic platform with RAG architecture, async backend systems, long-term memory, intelligent routing, and real-time interactions.
 
-### 🖐 Gesture Recognition System
-
-Computer vision system for gesture-based interaction using ML pipelines.
-
-### 🍽 Swipe For Food
-
-Full-stack food ordering platform with admin workflows and scalable deployment.
+**Stack:** FastAPI • React • ChromaDB • LangChain • WebSockets • SQL
 
 ---
 
-## GitHub Stats
+### Gesture Recognition System
 
-<div align="center">
+Real-time computer vision system for gesture-controlled interaction with optimized ML pipelines and high-accuracy inference.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedprathap28&show_icons=true&hide_border=true&theme=tokyonight"/>
+**Stack:** Python • OpenCV • TensorFlow • MediaPipe • Flask
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedprathap28&layout=compact&hide_border=true&theme=tokyonight"/>
+---
 
-</div>
+### Swipe For Food
+
+Full-stack food ordering platform featuring swipe-based discovery, authentication, admin workflows, and scalable deployment.
+
+**Stack:** React • Node.js • Express • MongoDB • Docker • Kubernetes
+
+---
+
+## Portfolio
+
+🌐 https://vedprathap28.github.io/portfolio/
 
 ---
 
 ## Current Focus
 
-* Backend Engineering
+* Scalable Backend Architecture
 * AI Applications & Agent Systems
-* Cloud & DevOps
-* Building production-ready products
+* Cloud & Deployment
+* Building production-ready software
 
 ---
 
-<div align="center">
-
-Open to Software Engineering opportunities
-
-</div>
+<p align="center">
+Open to Software Engineering opportunities.
+</p>
